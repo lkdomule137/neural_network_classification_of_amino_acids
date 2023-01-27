@@ -1,5 +1,6 @@
 # Classification of Amino Acids Using Neural Networks
 ![](/images/neural_network_classification_of_amino_acids.PNG)
+*Raw data and model files for trained neural networks can be found in this repo. Jupyter notebook containing full analysis available on request*
 
 Amino acids are the building blocks of proteins which act to mediate countless biological processes. Thus
 there is a clear and evident need for a viable sequencing technology for proteins that can encode information
